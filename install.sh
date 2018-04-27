@@ -86,11 +86,13 @@ ${blue} For The Option 4 You need to already have made a node. and get your  con
    ;;
 
    2)
+   clear
    install_Dependencies
    install_dockerDependecies
    ;;
 
    3)
+   clear
      install_dockerDependecies
      install_docker
    ;;
