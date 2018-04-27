@@ -78,9 +78,6 @@ ${blue} For The Option 4 You need to already have made a node. and get your  con
 [4] Install Pterodactyl Daemon
 
 
-${blue} For The Optionin
-
-
  case $software in
 
    1)
